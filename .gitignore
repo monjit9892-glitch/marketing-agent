@@ -1,5 +1,2 @@
-venv/
-env/
 to-do.txt
-*.py[cod]
 .env
